@@ -1,1 +1,3 @@
-# AAL-Australia-Sales-Insights
+## Project Summary
+
+This Q4 2020 sales analysis of AAL identifies the Men demographic as the highest revenue contributor, with Seniors as the lowest. December shows peak sales aligned with seasonal trends, and weekly data indicates increased sales in the final quarter weeks. Morning and Afternoon are key sales periods, suggesting optimal timing for promotions. State-wise and group-wise analyses reveal regional and demographic differences, highlighting the need for customized sales strategies. Visualizations created using Seaborn enhance clarity and support actionable insights. These results inform targeted marketing, inventory management, and expansion plans.
